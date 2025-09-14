@@ -1,0 +1,15 @@
+while((a <=30)&&(byteA==1))
+		{
+			a=ultrasonic_read();
+			IOSET0|=buzzer;
+			delay_ms(1000);
+			IOCLR0|=buzzer;
+		}
+		while((a >30)&&(byteA==1))
+		{
+			a=ultrasonic_read();
+			IOSET0|=buzzer;
+			delay_ms(2000);
+			IOCLR0|=buzzer;
+		
+		}

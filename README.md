@@ -11,3 +11,8 @@ Here’s how the Reverse car parking system using CAn protocol looks in action:
 
 [![Watch the video](https://img.shields.io/badge/▶-Click%20to%20Play-red)](demo/demo.mp4)
 
+
+### 🎬 GIF Preview
+(Add a screen recording gif here for better showcase)
+![App Demo](demo/demo.gif)
+
